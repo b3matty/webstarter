@@ -1,3 +1,17 @@
-body {
+body{
+  background-color: #B4CEB3;
+}
 
+h1{
+  color: #0B2545;
+  text-shadow: 1px 1px #F9DEC9;
+}
+p{
+  color: #172815;
+  background-color: #1A936F;
+
+}
+
+img{
+  width: 30%;
 }
